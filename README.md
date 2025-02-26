@@ -1,7 +1,3 @@
-Here's a GitHub README file for your `stego.py` project:  
-
----
-
 ### 🛡️ Steganography Tool - Hide Messages in Images
 
 This is a simple Python script for **steganography**, allowing users to hide and retrieve secret messages inside an image using OpenCV.
