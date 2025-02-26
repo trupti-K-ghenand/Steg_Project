@@ -53,5 +53,3 @@ pip install opencv-python
 - Improve storage technique to avoid noticeable image distortion.
 
 ---
-
-Would you like any modifications or additions to the README? 🚀
